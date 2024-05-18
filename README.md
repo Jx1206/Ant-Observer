@@ -3,9 +3,9 @@
 # Users need to download the entire Ant-Observer in zip format. After unzipping the zip （Be sure to download the entire）, click on Ant-Observer.exe and wait for a while for the program to start up.
 
 # What kind of information is included in the input data requirements for Ant-Observer？
-# We provide an example of input data, check out XX (note that the labels file takes a very long time to download).
+# We provide an example of input data, check out (https://connecthkuhk-my.sharepoint.com/:f:/g/personal/u3008597_connect_hku_hk/EjTN94DNSZxFrT-L-fwrjJ8By3lcoLtfqHwyu5rNxOl_og?e=NhnMMH)(note that the labels file takes a very long time to download).
 
 # How to use Ant-Observer？
 
-# We have compiled a complete set of video guideline and software handbook. The video guideline can be viewed at the XX, and thehandbook can be found in Appendix 2.
+# We have compiled a complete set of video guideline and software handbook. The video guideline can be viewed at the https://connecthkuhk-my.sharepoint.com/:f:/g/personal/u3008597_connect_hku_hk/EjTN94DNSZxFrT-L-fwrjJ8By3lcoLtfqHwyu5rNxOl_og?e=NhnMMH, and the handbook can be found in Appendix 2.
 
